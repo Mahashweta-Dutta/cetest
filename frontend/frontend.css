@@ -1,0 +1,10 @@
+body{
+    background: url('image/cetest.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.container{
+    background-color: white;
+    height: 60%;
+    margin-top: 8%;
+}
