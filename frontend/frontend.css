@@ -4,10 +4,11 @@ body{
     background-repeat:no-repeat;
 }
 .container1{
-    height: 0%;
+    height: 2%;
+    margin-top:0% ;
 }
 .container{
     background-color: white;
-    height: 70%;
-    margin-top: 8%;
+    height: 75%;
+    margin-top: 6%;
 }
